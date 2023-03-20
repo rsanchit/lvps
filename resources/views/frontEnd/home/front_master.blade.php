@@ -91,7 +91,7 @@
                 <a class="navbar-brand" href="{{url('/')}}/home">
                     <img class="w-75"
                          src="{{asset($setting->logo ? $setting->logo : 'public/uploads/settings/logo.png')}}"
-                         alt="Infix Logo" style="max-width: 150px;">
+                         alt="Infix Logo" style="max-width: 300px;">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
